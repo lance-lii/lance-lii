@@ -2,6 +2,5 @@
 
 I'm a student at the University of Toronto interested in artificial intelligence and machine learning
 
-## Get in touch
-- Email: lancedezhili@gmail.com
+You can reach me @ lancedezhili@gmail.com
 
